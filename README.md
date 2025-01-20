@@ -1,4 +1,4 @@
-# Git ja GitHub - Perusteet
+# Git ja GitHub
 
 ## Git-versionhallinnan tärkeimmät asiat
 Git on hajautettu versionhallintajärjestelmä, jonka avulla voidaan seurata muutoksia ohjelmistokehitysprojekteissa. Se mahdollistaa yhteistyön, muutosten hallinnan ja version palauttamisen tarvittaessa.
