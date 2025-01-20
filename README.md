@@ -133,7 +133,7 @@ git merge upstream/main
 
 **Kuvat**
 
-![Paikallinen kuva](kuvat/git-logo.png)
+![Paikallinen kuva](git-logo.png)
 
 ![Verkkolinkitetty kuva](https://git-scm.com/images/logo@2x.png)
 
