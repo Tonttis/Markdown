@@ -132,6 +132,8 @@ git merge upstream/main
 **lihavoitu teksti**  
 
 **Kuvat**
+
+
 Paikallinen kuva
 ![Paikallinen kuva](git-logo.png)
 
